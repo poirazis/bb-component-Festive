@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "bb-component-Festive",
+    "friendlyName": "bb-component-Festive",
+    "description": "A Festive Component for Budibase",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "text",
+        "label": "Text"
+      }
+    ]
+  }
+}
