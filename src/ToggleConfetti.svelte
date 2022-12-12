@@ -40,6 +40,7 @@
         border-radius: 0.25rem;
         border: 1px solid var(--primaryColor);
         padding: 0.5rem 1rem;
+        margin: 0.5rem;
         cursor: pointer;
     }
     .relative {
